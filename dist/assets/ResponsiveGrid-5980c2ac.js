@@ -1,0 +1,1 @@
+import{a4 as r,x as n,di as a}from"./index-cec55701.js";const o=e=>{const i=r("settings_layout");let t;return i==="responsive"&&(t="repeat(auto-fill, minmax(424px, 1fr))"),n(a,{w:"$full",gap:"$2",templateColumns:{"@initial":"1fr","@lg":t},get children(){return e.children}})};export{o as R};
